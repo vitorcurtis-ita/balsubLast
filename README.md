@@ -15,8 +15,8 @@ The source code provided in this repository allows you to implement and utilize 
 The repo has the following:
 
 - *benchmarks*: directory with several instance classes.
-- *code/BalsubLast*: directory with the code balsublast algorithm;
-- *code/CS32*: CUDA code for other algorithm which we compare in the paper.
+- *code/BalsubLast*: directory with the code BalsubLast algorithm;
+- *code/CS32*: CUDA code for CS32, another algorithm that we compare in the paper.
 
 In *benchmark* directory, the file 'Optimal Results.xlsx' has the value of the optimal solution for each instance.
 The codes were a previous backup, so they are not so organized (sorry).
